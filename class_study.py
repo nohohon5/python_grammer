@@ -1,6 +1,6 @@
 class people():
     """
-    定义一个人
+    定义一个人g
     """
     def __init__(self,name):
         self.name = name
